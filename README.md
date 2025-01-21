@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<img src="https://github-readme-linkedin-3is6.vercel.app/experience?username=PaoloPiacenti" />
+<img src="https://github-readme-linkedin-3is6.vercel.app/user?username=PaoloPiacenti" />
 
 
 <!--
