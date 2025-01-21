@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+<img src="https://github-readme-linkedin-3is6.vercel.app/experience/?username=PaoloPiacenti" />
+
+
 <!--
 **PaoloPiacenti/PaoloPiacenti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
