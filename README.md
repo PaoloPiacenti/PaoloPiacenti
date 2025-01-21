@@ -40,7 +40,7 @@ To bridge the gap between business and technology by creating AI-driven solution
 ## 📫 Let’s Connect!
 
 - **LinkedIn**: [Paolo Piacenti](https://www.linkedin.com/in/paolopiacenti/)
-- **Email**: [hello@paolopiacenti.dev](mailto:hello@paolopiacenti.dev)
+- **Email**: [work.paolopiacenti@gmail.com](mailto:work.paolopiacenti@gmail.com)
 
 Feel free to reach out if you want to talk about AI, Product Management, or just share cool ideas! 🌟
 
